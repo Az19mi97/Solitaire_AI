@@ -1,11 +1,9 @@
 # SolitaireAI
-Complete AI that plays and wins the game
+AI that plays and wins the Solitaire game.
 
 ## Project Origin and Context
 - Project retrieved from my GitHub account created with my student email, due to loss of access.
-- Student Github url: https://github.com/s185736?tab=repositories.
-- Originally completed as part of the course: 62410 - CDIO-Project.
-- Original submission date: Jun 2021.
+- Originally completed as part of the course during the 4th semester in 2023.
 - Re-uploaded to this GitHub repository for reference and portfolio purposes.
 
 ## Requirements
