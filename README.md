@@ -25,4 +25,4 @@ Complete AI that plays and wins the game
 - Open "Micorsoft Solitaire Collection" application (you can type it in the search bar after pressing start on Windows)
 - Go to Klondike game with "Easy" level and "Single draw card" version
 - Go to main directory of this project and type "python main.py"
-- Go to Solitaire game screen and select full screen
+- Go to Solitaire game screen and select full screen.
